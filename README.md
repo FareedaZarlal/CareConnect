@@ -147,20 +147,6 @@ flutter pub get
 ```bash
 flutter run
 ```
-
----
-
-## 🔑 Demo Account
-
-You can explore the application using the following demo credentials:
-
-| Field | Credentials |
-|---|---|
-| Email | `demo@careconnect.app` |
-| Password | `password123` |
-
-**Note:** New user registration is also available. The current sign-in implementation accepts the predefined demo account.
-
 ---
 
 ## 📱 Platform Support
