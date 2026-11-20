@@ -102,6 +102,14 @@ lib/
     ├── appointments.dart  # Appointment management
     └── profile.dart       # Profile and notifications
 ```
+## Screenshots
+<img width="214" height="469" alt="0" src="https://github.com/user-attachments/assets/408e891e-d6f8-45ff-9c55-8ac03c154971" />
+<img width="214" height="475" alt="00" src="https://github.com/user-attachments/assets/b9bfa7cd-d5b5-41f1-92f6-03196851b569" />
+<img width="215" height="478" alt="000" src="https://github.com/user-attachments/assets/6ddcb674-f064-44f2-b5c6-fb7605e64c65" />
+<img width="215" height="470" alt="1" src="https://github.com/user-attachments/assets/fe7e4d38-a59d-4675-80f9-fb27b75e4adb" />
+<img width="215" height="473" alt="2" src="https://github.com/user-attachments/assets/45172b27-c6c9-4dcc-865d-89ee117a2678" />
+<img width="215" height="471" alt="3" src="https://github.com/user-attachments/assets/4cfea170-2227-457f-8fb7-012283dae2ac" />
+<img width="215" height="452" alt="4" src="https://github.com/user-attachments/assets/7882cb3a-323a-409f-9604-9a6d92b645f0" />
 
 ---
 
